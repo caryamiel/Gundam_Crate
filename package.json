@@ -1,0 +1,12 @@
+{
+  "name": "gundam-supply-crate",
+  "version": "1.0.0",
+  "description": "A simple Node.js server for the Gundam Supply Crate app.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
